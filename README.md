@@ -1,5 +1,5 @@
 # 🚀 Delta Executor - Free Roblox Script Executor  
-[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blueviolet)](../../releases)  
+[![Download KRNL Executor](https://img.shields.io/badge/Download-More%20Scripts-blueviolet)](https://github.com/topics/robloxscripts)  
 
 ## 📥 Getting Started  
 Getting started with **Delta Executor** is fast and easy:  

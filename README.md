@@ -44,5 +44,5 @@ We appreciate community contributions! If you'd like to report bugs, suggest new
 
 ## 📢 Contact  
 Looking for help or want to stay informed?  
-Join our **[official Discord community](https://discord.gg/Delta)** for support, announcements, and discussions.
+Join our **[official Discord community](https://discord.gg/-------)** for support, announcements, and discussions.
     
